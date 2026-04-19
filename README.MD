@@ -1,3 +1,6 @@
+![Zx Four Miracles Proof](./Zx_Four_Miracles_Proof.png)
+
+**Four universal constants proven with Z'(x) = 0.00000e+00**
 # Zx Mother Function - نظرية عبدالله الجبري
 ## Proving the Constants of the Universe from First Principles
 
