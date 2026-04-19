@@ -19,16 +19,16 @@ $$ Z(x) = x^5 \ln(x) \sin(2\pi/x) \exp(-x/x_p) $$
 
 ---
 
-## Links
-- **Zenodo Record:** https://zenodo.org/records/19645066
+## Official Links
 - **DOI:** https://doi.org/10.5281/zenodo.19645066
+- **Zenodo Record:** https://zenodo.org/records/19645066
 - **GitHub:** https://github.com/jabri62018/Zx_Mother_Function_Jabri
 - **Telegram:** https://t.me/Jabri2025
 
 ---
 
-## Citation
-Al-Jabri, A. (2026). Z(x) Mother Function. *Zenodo*. https://doi.org/10.5281/zenodo.19645066
+## How to Cite
+Al-Jabri, A. (2026). *Z(x) Mother Function*. Zenodo. https://doi.org/10.5281/zenodo.19645066
 
 ---
 
