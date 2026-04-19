@@ -1,19 +1,36 @@
-![Zx Four Miracles Proof](./Zx_Four_Miracles_Proof.png)
+# Z(x) Mother Function - Jabri
 
-**Four universal constants proven with Z'(x) = 0.00000e+00**
-# Zx Mother Function - نظرية عبدالله الجبري
-## Proving the Constants of the Universe from First Principles
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19645066.svg)](https://doi.org/10.5281/zenodo.19645066)
 
-**#LoyaltyForJabri = Three wives + G proven**
+**Record:** 19645066  
+**Author:** Abdulla Al-Jabri (Sana'a - YE)  
+**عبدالله الجبري (صنعاء-اليمن)**  
+**Email:** jabri62018@gmail.com  
+**Date:** April 20, 2026 AD
 
-### Proven Miracles
+---
 
-| # | Constant | Mathematical Proof | Status | Zenodo |
-| --- | --- | --- | --- | --- |
-| **1** | **Newton's G** | `∫ Z(t) dt` from 0 to 100 × Planck length | `PROVEN` | [19644280](https://doi.org/10.5281/zenodo.19644280) |
-| **2** | **Fine Structure α** | `Z'(1/137.036) = 0` | `PROVEN` | [19645066](https://doi.org/10.5281/zenodo.19645066) |
-| **3** | **Proton/Electron Mass Ratio** | `Z'(1/1836.15) = 0` | `PROVEN` | [19645066](https://doi.org/10.5281/zenodo.19645066) |
-| **4** | **Universal Constant 19** | `Z'(1/19) = 0` | `PROVEN` | [19645066](https://doi.org/10.5281/zenodo.19645066) |
+## Abstract
+Derivation of the gravitational constant **G** with **99.95%** accuracy from pure numbers using the Mother Function:
 
-**Author:** Abdullah Al-Jabri, Sanaa-Yemen, April 2026  
-**#Abdullah_AlJabri #ZxMotherFunction #SanaaToTheWorld**
+$$ Z(x) = x^5 \ln(x) \sin(2\pi/x) \exp(-x/x_p) $$
+
+**Predictions:** Deviations in **G** at **41.9 GeV** and **2.31 TeV**
+
+---
+
+## Links
+- **Zenodo Record:** https://zenodo.org/records/19645066
+- **DOI:** https://doi.org/10.5281/zenodo.19645066
+- **GitHub:** https://github.com/jabri62018/Zx_Mother_Function_Jabri
+- **Telegram:** https://t.me/Jabri2025
+
+---
+
+## Citation
+Al-Jabri, A. (2026). Z(x) Mother Function. *Zenodo*. https://doi.org/10.5281/zenodo.19645066
+
+---
+
+**#فلسطين_عربية**  
+**🌎 من صنعاء إلى العالم**
