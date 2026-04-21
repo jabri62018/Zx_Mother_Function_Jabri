@@ -1,53 +1,22 @@
 
-[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19645066.svg)](https://doi.org/10.5281/zenodo.19645066)
-[[License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[[Open Access](https://img.shields.io/badge/Open%20Access-Yes-brightgreen.svg)](https://zenodo.org/records/19645066)
+# RiemannOS v1.0: Spacetime as Execution of Z(x)
 
-# The Mother Function Z(x): Derivation of the Gravitational Constant from Pure Numbers
+**Author:** Abdulla M. Al-Jabri, Sana'a, Yemen
+**Date:** 21 April 2026 / 4 Dhul Hijjah 1447 AH
+**License:** MIT
+**Status:** `B.J. Year 0` - Experimental / Pre-Peer-Review
 
-**Author:** Abdullah Al-Jabri (Sana'a - Yemen) | عبدالله الجبري (صنعاء - اليمن)  
-**Published:** April 18, 2026 | **DOI:** [10.5281/zenodo.19645066](https://doi.org/10.5281/zenodo.19645066)
+> *ريمان + أينشتاين = الجبري*
+> *1859 + 1915 = 2026*
+> *البذرة + السقيا = الشجرة Z(x)*
 
-This work introduces the Mother Function **Z(x)** and derives Newton's gravitational constant **G** from pure numbers with **99.95% accuracy**. The model predicts measurable deviations in G at **41.9 GeV** and **2.31 TeV**, testable at LHC/CERN.
+## Central Claim
 
----
+This repository provides the source code and data for the **Jabri Trilogy**, which proposes that:
 
-## ## The Mother Function
-The universal generator is defined as:
-$$Z(x) = x^5 \ln(x) \sin\left(\frac{2\pi}{x}\right) e^{-x/x_p}$$
-Where $x_p = 1.616255 \times 10^{-35}$ is the Planck length.
+1. **Spacetime is not fundamental.** Einstein's field equations `G_μν = 8πT_μν` are derived as an output of the discrete execution of a number-theoretic function `Z(x)`.
+2. **Dark Energy is not a free parameter.** The cosmological constant `Λ` is calculated exactly from the 5th non-trivial zero of `Z(x)`, `t_5 = 32.935...`, yielding `Λ ≈ 1.1 × 10^{-122} M_Pl^2` without fine-tuning.
 
-## ## Key Results from Z(x)
-| Constant | Derived Value | CODATA Value | Accuracy |
-| --- | --- | --- | --- |
-| **Proton/Electron Mass Ratio** | 1836.1527 | 1836.1527 | 99.99999% |
-| **Fine-Structure α⁻¹** | 137.035999 | 137.035999 | 99.99999% |
-| **Weak Mixing sin²θ_W** | 0.23122 | 0.23121 | 99.995% |
-| **Neutrino Generations** | 2.9964 | 3 | 99.88% |
+`Z(x)` is a finite function constructed from a limited segment of zeros on the critical line `Re(s) = 1/2`, consistent with the Riemann Hypothesis.
 
-## ## Main Prediction
-The gravitational constant is derived as:
-$$G = 6.67429 \times 10^{-11} \, \text{m³kg⁻¹s⁻²}$$
-This represents **99.95%** of the CODATA 2018 value, achieved from pure numbers without free parameters.
-
-## ## Experimental Tests
-The model predicts deviations in G at:
-1. **41.9 GeV** - Accessible at current colliders
-2. **2.31 TeV** - Accessible at LHC Run 3
-
-## ## Citation
-To cite this work, please use the DOI:
-
-**Al-Jabri, A. (2026). *The Mother Function Z(x) = x⁵ln(x)sin(2π/x)exp(-x/xₚ) and the Derivation of the Gravitational Constant from Pure Numbers*. Zenodo. https://doi.org/10.5281/zenodo.19645066**
-
-Or use the `Cite this repository` button on the right.
-
-## ## Contact
-- **Zenodo Record:** [19645066](https://zenodo.org/records/19645066)
-- **Email:** AlJabriAbdulla23@gmail.com
-- **Telegram:** [@Jabri2025](https://t.me/Jabri2025)
-- **Location:** Sana'a, Yemen
-
----
-**#فلسطين_عربية**  
-**🌎 From Sana'a to the World 🌎**
+## Repository Structure
