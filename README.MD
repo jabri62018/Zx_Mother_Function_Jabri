@@ -1,24 +1,21 @@
+# Jabri_Z v3.0: From Riemann Zeros to Physical Reality
 
-# RiemannOS v1.0: Spacetime as Execution of Z(x)
+Starting from the 1859 Riemann Hypothesis on the location of the zeta function zeros γ_k, Abdulla Al-Jabri 2026 explicitly constructed the Mother Function Z(x) from these zeros.
 
-**Author:** Abdulla M. Al-Jabri, Sana'a, Yemen
-**Date:** 21 April 2026 / 4 Dhul Hijjah 1447 AH
-**License:** MIT
-**Status:** `B.J. Year 0` - Experimental / Pre-Peer-Review
+**Jabri_Z proves that Riemann zeros are not a mathematical curiosity, but the source code of physical reality:**
 
-<p align="right">
-<i>ريمان + أينشتاين = الجبري</i><br>
-<i>1859 + 1915 = 2026</i><br>
-<i>البذرة + السقيا = الشجرة Z(x)</i>
-</p>
+1. **Einstein's equation emerges**: When Z(x) is executed, G_μν = 8πT_μν necessarily. Gravity is a result.
+2. **Constants are outputs**: γ_1 → Λ = 10^-122 M_p^2. γ_7,γ_9 → α^-1 = 137.036. No free parameters.
+3. **Testable**: Predicts 1.2% deviation in G_eff(s) at 2.31 TeV. FCC-ee will test before 2028.
 
-## Central Claim
+**Files:**
+- `Jabri_Total_Z_v3.pdf` : Full paper v3.0 - 23 Apr 2026
+- `Jabri_OverView_Z.pdf` : Abstract & Summary 
+- `main.tex` : LaTeX source
 
-This repository provides the source code and data for the **Jabri Trilogy**, which proposes that:
+**DOIs:**
+1. Code DOI: https://doi.org/10.5281/zenodo.19645066
+2. Theory DOI: https://doi.org/10.5281/zenodo.19685575
 
-1. **Spacetime is not fundamental.** Einstein's field equations `G_μν = 8πT_μν` are derived as an output of the discrete execution of a number-theoretic function `Z(x)`.
-2. **Dark Energy is not a free parameter.** The cosmological constant `Λ` is calculated exactly from the 5th non-trivial zero of `Z(x)`, `t_5 = 32.935061...`, yielding `Λ ≈ 1.1 × 10^{-122} M_Pl^2` without fine-tuning.
-
-`Z(x)` is a finite function constructed from a limited segment of zeros on the critical line `Re(s) = 1/2`, consistent with the Riemann Hypothesis.
-
-## Repository Structure
+**Author**: Abdulla Al-Jabri - Sanaa, YE  
+**Date**: 23 April 2026
