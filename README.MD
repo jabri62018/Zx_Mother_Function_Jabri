@@ -1,21 +1,23 @@
-# Jabri_Z v3.0: From Riemann Zeros to Physical Reality
 
-Starting from the 1859 Riemann Hypothesis on the location of the zeta function zeros γ_k, Abdulla Al-Jabri 2026 explicitly constructed the Mother Function Z(x) from these zeros.
+# Zx Mother Function v3.0.1 - PEER_REVIEW_WAR_ROOM Epilogue
 
-**Jabri_Z proves that Riemann zeros are not a mathematical curiosity, but the source code of physical reality:**
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19717561.svg)](https://doi.org/10.5281/zenodo.19717561)
+[[License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-1. **Einstein's equation emerges**: When Z(x) is executed, G_μν = 8πT_μν necessarily. Gravity is a result.
-2. **Constants are outputs**: γ_1 → Λ = 10^-122 M_p^2. γ_7,γ_9 → α^-1 = 137.036. No free parameters.
-3. **Testable**: Predicts 1.2% deviation in G_eff(s) at 2.31 TeV. FCC-ee will test before 2028.
+**Computer Conclusion:**  
+Input = Riemann's Numbers  
+Output = Einstein's Physics  
+OS = Abdulla Al-Jabri
 
-**Files:**
-- `Jabri_Total_Z_v3.pdf` : Full paper v3.0 - 23 Apr 2026
-- `Jabri_OverView_Z.pdf` : Abstract & Summary 
-- `main.tex` : LaTeX source
+## 📄 Download v3.0.1
+- **PDF:** [GitHub](https://github.com/Jabri62018/Zx_Mother_Function_Jabri/releases/download/v3.0.1/Jabri_overview_z_v3.0.1.pdf) | [Zenodo](https://doi.org/10.5281/zenodo.19717561)
 
-**DOIs:**
-1. Code DOI: https://doi.org/10.5281/zenodo.19645066
-2. Theory DOI: https://doi.org/10.5281/zenodo.19685575
+## 📖 Citation
+Al-Jabri, A. M. N. (2026). *Zx_Mother_Function_Jabri v3.0.1 - PEER_REVIEW_WAR_ROOM Epilogue*. Zenodo. https://doi.org/10.5281/zenodo.19717561
 
-**Author**: Abdulla Al-Jabri - Sanaa, YE  
-**Date**: 23 April 2026
+## 🔗 DOIs
+- **This Version:** 10.5281/zenodo.19717561
+- **All Versions:** 10.5281/zenodo.19685575
+
+---
+🖋️ #عبدالله_الجبري | 24 April 2026 | #LoyaltyForJabri
