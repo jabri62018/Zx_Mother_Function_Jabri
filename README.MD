@@ -1,8 +1,8 @@
 # Zx Mother Function v3.0.1 - PEER_REVIEW_WAR_ROOM Epilogue
 
-[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19717561.svg)](https://doi.org/10.5281/zenodo.19717561)
-[[License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jabri62018/Jabri-RiemannOS/blob/main/Zx_Hubble.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19717561.svg)](https://doi.org/10.5281/zenodo.19717561)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jabri62018/Jabri-RiemannOS/blob/main/Zx_Hubble.ipynb)
 
 > **Computer Conclusion:**  
 > **Input = Riemann's Numbers**  
@@ -19,10 +19,10 @@
 ---
 
 ## 📄 Download & Reproduce v3.0.1
-- **Main Notebook**: [`Zx_Hubble.ipynb`](Zx_Hubble.ipynb) - Reproduce H(z) + T01
-- **Planck Derivation**: [`Zx_Planck_Epoch.ipynb`](Zx_Planck_Epoch.ipynb) - Derive ħ,G,Λ,α
+- **Main Notebook**: [`Zx_Hubble.ipynb`](https://github.com/jabri62018/Jabri-RiemannOS/blob/main/Zx_Hubble.ipynb) - Reproduce H(z) + T01
+- **Planck Derivation**: [`Zx_Planck_Epoch.ipynb`](https://github.com/jabri62018/Jabri-RiemannOS/blob/main/Zx_Planck_Epoch.ipynb) - Derive ħ,G,Λ,α
 - **Official Record**: [Zenodo DOI 10.5281/zenodo.19717561](https://doi.org/10.5281/zenodo.19717561)
-- **Original Paper v1.0**: [`Z_total_v1.pdf`](Z_total_v1.pdf)
+- **Original Paper v1.0**: [`Z_total_v1.pdf`](https://zenodo.org/records/19717561/files/Z_total_v1.pdf)
 - **Full Dataset**: [`Hz_RiemannOS_0.001.csv`](Hz_RiemannOS_0.001.csv)
 
 ## 🖼️ Key Figures
